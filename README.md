@@ -1,2 +1,2 @@
 # learning-core-java
-For all Patkar stuff
+Object Oriented Programming in Java. GUI using swing and awt libraries.
